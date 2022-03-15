@@ -1,0 +1,26 @@
+.body{
+    background-image: url('./../images/About_us.png');  
+    background-size: 980px;
+    background-repeat: no-repeat;
+    color: black;
+    margin-top: 30px;
+}
+.para{
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    color:black;
+    margin-left: 40%;
+    position: relative;
+  animation-name: example;
+  animation-duration: 3s;
+}
+.one{
+    margin-left: 40%;
+}
+@keyframes example {
+  0%   {left:0px; top:0px;}
+  25%  {left:160px; top:0px;}
+  50%  {left:160px; top:0px;}
+  100% {left:0px; top:0px;}
+}

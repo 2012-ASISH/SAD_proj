@@ -1,0 +1,10 @@
+.jumbotron{
+    background-color:black;
+    color:goldenrod;
+    margin-top: 20px;
+  }
+ .a{
+    background-image:url('./../images/pizza.jpg');
+    height: 554px ;
+
+ }
